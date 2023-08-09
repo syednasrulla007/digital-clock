@@ -291,16 +291,16 @@ right: 240px;
     .index1{
         position:absolute;
         top: 920px;
-        left:90px;
-        width: 300px;
+        left:50px;
+        width: 220px;
 
 
     }
     .index2{
         position:relative;
         top: 130px;
-        left:100px;
-        width: 200px;
+        left:70px;
+        width: 150px;
     }
     .box{
         width: 70%;
