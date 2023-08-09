@@ -7,8 +7,8 @@ body{
     background-color: #3D087B;
 }
 .container{
-    height: 100vh;
-    width: 95vw;
+    height: 100%;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
